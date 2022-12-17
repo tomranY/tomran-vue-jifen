@@ -1,0 +1,12 @@
+.wrap {
+    width: 1200px;
+    margin: 0px auto;
+}
+
+input {
+    outline: none;
+}
+*{
+    user-select: none;
+    
+}
